@@ -53,4 +53,4 @@ Is project ko banate waqt maine kuch important decisions liye:
 ---
 
 **Crafted with ❤️ by:** Patel Rakeshkumar Amarnath
-**Contact:** [Apna Email/Portfolio Link yahan dalein]
+**Contact:** [patelrakeshamar309@gmail.com /(https://vercel.com/patel02s-projects)]
