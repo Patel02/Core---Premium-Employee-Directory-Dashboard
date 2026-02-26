@@ -6,7 +6,6 @@ Maine is assignment ko sirf ek technical task ki tarah nahi, balki ek **Real-wor
 
 ## 🚀 Live Experience
 **Live Demo:** [https://core-premium-employee-directory-das.vercel.app/](https://core-premium-employee-directory-das.vercel.app/)  
-**Submission Deadline:** Feb 27, 2026
 
 ## ✨ Why this project stands out?
 
